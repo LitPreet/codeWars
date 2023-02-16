@@ -23,3 +23,4 @@ function likes(names) {
       return `${names[0]}, ${names[1]} and ${names.length - 2} others like this`;
   }
 }
+// can be used all two methods
