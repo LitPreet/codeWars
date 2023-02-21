@@ -1,4 +1,4 @@
-//reverse words
+//reverse words js
 function reverseWords(str) {
   // Go for it
  
