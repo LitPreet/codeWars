@@ -1,3 +1,4 @@
+//bit counting
 var countBits = function(n) {
   // Program Me
   if(n)
