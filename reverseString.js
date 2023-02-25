@@ -1,4 +1,4 @@
-//reverse string 
+//reverse string js
 let phrase = "Hey fellow warriors";
 const spinWords =(phrase)=>
 {
