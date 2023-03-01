@@ -1,3 +1,4 @@
+//first method
 function getCount(str) {
   let count = 0;
   const vowels = new Array('a','e','i','o','u');
