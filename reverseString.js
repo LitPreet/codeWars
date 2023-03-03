@@ -1,4 +1,4 @@
-//reverse string js
+//reverse string js file
 let phrase = "Hey fellow warriors";
 const spinWords =(phrase)=>
 {
