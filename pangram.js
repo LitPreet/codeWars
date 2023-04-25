@@ -1,4 +1,4 @@
-//pangram js
+//pangram js program 
 function isPangram(string){
   //...
   let str = string.toLowerCase();
