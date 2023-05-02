@@ -1,3 +1,4 @@
+//adding number js
 function add(a, b) {
       var result = ''
     var carry = 0
