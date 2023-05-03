@@ -1,4 +1,4 @@
-//calculatewithinFun js program 
+//calculatewithinFu
 function zero(f) { return f ? f(0) :0}
 function one(f) {return f ? f(1) :1}
 function two(f) {return f ? f(2) :2}
