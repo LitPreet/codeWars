@@ -1,4 +1,4 @@
-//two sum js
+//two sum
 function twoSum(numbers, target) {
   console.log([numbers, target]);
   for (let i = 0;i<numbers.length;i++){
