@@ -1,4 +1,4 @@
-//count vowel js
+//count vowel js file
 //first method
 function getCount(str) {
   let count = 0;
