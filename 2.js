@@ -1,5 +1,6 @@
 function counter() {
-  var _counter = 0;
+  var _counter = 0; 
+  // js
   // return an object with several functions that allow you
   // to modify the private _counter variable
   return {
