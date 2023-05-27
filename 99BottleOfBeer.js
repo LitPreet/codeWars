@@ -1,5 +1,5 @@
 /* findBeerBottle program
-Description:
+Description:j
 Instructions are as follows
 Write a function sing that returns the lyrics for the song 99 Bottles of Beer as a an array.
 
