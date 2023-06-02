@@ -1,5 +1,5 @@
 // program to find Armstrong number between intervals
-
+//js
 // take an input
 const lowNumber = parseInt(prompt('Enter a positive low integer value: '));
 const highNumber = parseInt(prompt('Enter a positive high integer value: '));
