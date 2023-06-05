@@ -1,4 +1,4 @@
-//Are they the same program js
+//Are they the same program
 function comp(array1, array2){
   //your code here
   let result = false;
