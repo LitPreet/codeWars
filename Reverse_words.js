@@ -1,4 +1,4 @@
-//reverse words program
+//reverse words program js
 function reverseWords(str) {
   // Go for it
  
