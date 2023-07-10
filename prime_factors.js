@@ -1,4 +1,4 @@
-//prime factor js
+//prime factor
 const num = 18;
 const isPrime = (n) => {
    for(let i = 2; i <= n/2; i++){
