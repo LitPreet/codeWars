@@ -1,4 +1,4 @@
-//bit counting program 
+//bit counting program js
 var countBits = function(n) {
   // Program Me
   if(n)
