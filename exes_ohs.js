@@ -1,4 +1,4 @@
-//exes
+//exe
 function XO(str) {
     //code here
      let x = str.match(/x/gi);
