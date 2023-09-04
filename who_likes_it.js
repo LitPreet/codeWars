@@ -1,4 +1,4 @@
-//Who-likes-it js
+//Who-likes-it 
 function likes(names){
   return {
     0: `no one likes this`,
