@@ -1,4 +1,4 @@
-//adding number js j
+//adding number 
 function add(a, b) {
       var result = ''
     var carry = 0
