@@ -1,3 +1,4 @@
+//js
 (function IIFE(){
 	console.log( "Hello!" );
 })();
