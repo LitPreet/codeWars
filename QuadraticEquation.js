@@ -1,4 +1,4 @@
-//& program to solve quadratic equation js.
+//& program to solve quadratic equation 
 let root1, root2;
 
 // take input from the user
